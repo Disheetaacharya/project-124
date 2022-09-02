@@ -1,0 +1,37 @@
+.copy_right_footer
+{
+    color: white;
+    background-color: #069783;
+    bottom: 0;
+    font-size: 15px;
+    position: fixed;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 3;
+    text-align: center;
+    width: 100%;
+}
+
+.note
+{
+    font-size: 25px;
+    color: black;
+    font-family: 'Square Peg', cursive;
+    
+}
+
+.heading
+{
+    font-size: 20px;
+    font-family: 'Righteous', cursive;
+    width: 100%;
+    margin:0px;
+    box-shadow: 7px 7px 7px rgb(249, 255, 160);
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 7px 7px 7px rgb(160, 190, 255);
+    
+}
